@@ -1,1 +1,1 @@
-I have created a finance app, the programming language that was used for this project is MongoDB, NodeJS, ReactJS, Typescript, Machine Learning
+I have created a finance Dashboard, the programming language that was used for this project is MongoDB, NodeJS, ReactJS, Typescript, Machine Learning. This project for business persons to display their information about Key Performance Indicators and other types of data that they need to keep track of their finances for their company. 
